@@ -1,4 +1,7 @@
 --Exercicio 2
+main  ::  IO ()
+main =  return  ()
+
 type Dist = (Float, Float)
 
 distancia :: Dist -> Dist -> Float
